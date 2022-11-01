@@ -19,4 +19,4 @@
 
 frase = "Qualquer uma pessoa"
 
-print(frase.replace ("Qualquer", "Raidan"))
+print(frase.replace ("Qualquer", "Raidan")) #Troca a string qualquer pela string Raidan
