@@ -17,4 +17,6 @@
 
 #print (".".join(curso))#Adiciona (.) em cada caracterer da string  
 
+frase = "Qualquer um bonitão"
 
+print(frase.replace ("Qualquer", "Raidan")) #Trocou Qualquer na variavel frase por Raidan
