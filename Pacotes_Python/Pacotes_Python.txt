@@ -1,0 +1,8 @@
+Pacote é um conjunto de modulos
+Modulos são aqueles carregado pelo comando Import
+
+Pypi: repositório público oficial de pacotes
+Wheel e SDIST: dois tipos de distribuição
+Setup tools: pacotes usados em setup.py para gerar as distribuições
+Twine: Pacote usado para subir distribuições no repositorio Pypi
+

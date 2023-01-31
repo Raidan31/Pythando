@@ -1,22 +1,22 @@
 #A lista pode armazenar qualquer tipo de item (String, float, lista etc)
 
-frutas = ["laranja", "maca", "uva"]
-print(frutas)
+#frutas = ["laranja", "maca", "uva"]
+#print(frutas)
 
-frutas = [] #Pode ter listas vazias
-print(frutas)
+#frutas = [] #Pode ter listas vazias
+#print(frutas)
 
 #Outro metodo para declarar lista
-letras = list("python") #Vai imprimir cada letra separadamente
-print(letras)
+#letras = list("python") #Vai imprimir cada letra separadamente
+#print(letras)
 
 numeros = list(range(10)) #A função range permitiu criar valores de 0 a 9
 print(numeros)
 
-carro = ["Ferrari", "F8", 4200000, 2020, 2900, "São Paulo", True]
-print(carro)
+#carro = ["Ferrari", "F8", 4200000, 2020, 2900, "São Paulo", True]
+#print(carro)
  
-print (carro[-1]) #Vai imprimir o ultimo item da lista e assim por diante
+#print (carro[-1]) #Vai imprimir o ultimo item da lista e assim por diante
 
 #frutas = ['Laranja', 'Uva', 'Batata']
 #valores = [1000, 50, 5000, 2, 999]
